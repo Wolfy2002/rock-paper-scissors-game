@@ -38,12 +38,3 @@ def castig(jucator, oponent):
         return True
 
 print(play())
-
-    #if player != ('p', 'h', 'f'):
-    #    print('You flopped!')
-    #    print('Incearca din nou :)')
-
-
-# sa return the player to input again
-# ceva buton sa ask you continue si sa te puna sa input again
-
